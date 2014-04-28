@@ -1,0 +1,17 @@
+/*
+
+!.fonts/
+!.scripts/
+!.vim/
+!.zprezto/
+!.brew
+!.inputrc
+!.gitconfig
+!.gitignore
+!.gemrc
+!.osx
+!.zpreztorc
+!.zshrc
+!iterm*
+!memfree.py
+
