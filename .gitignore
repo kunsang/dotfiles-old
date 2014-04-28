@@ -1,9 +1,8 @@
 /*
 
 !.fonts/
-!.scripts/
+!.scripts/**
 !.vim/
-!.zprezto/
 !.brew
 !.inputrc
 !.gitconfig
