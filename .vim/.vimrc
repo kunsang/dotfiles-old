@@ -189,7 +189,13 @@ filetype plugin indent on    " required
 " see :h vundle for more details or wiki for FAQ
 " Put your non-Plugin stuff after this line
 
+set t_Co=256
+
+let g:Powerline_symbols = "fancy"
+
 set background=dark
+
 colorscheme ir_black
+
 syntax on
 

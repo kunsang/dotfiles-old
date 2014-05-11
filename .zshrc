@@ -229,7 +229,7 @@ httpHeaders () { /usr/bin/curl -I -L $@ ; }             # httpHeaders:      Grab
 
 
 # Source: http://aur.archlinux.org/packages/lolbash/lolbash/lolbash.sh
-alias wtf='dmesg'
+alias wtf='sudo dmesg'
 alias onoz='cat /var/log/system.log'
 alias rtfm='man'
 alias visible='echo'
