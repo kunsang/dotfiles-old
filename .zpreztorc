@@ -35,8 +35,8 @@ zstyle ':prezto:load' pmodule \
                     'ruby' \
                       'syntax-highlighting' \
                         'history' \
-                          'history-substring-search' \
-                            'rails'
+                          'history-substring-search'
+                            # 'rails'
 
 #
 # Editor

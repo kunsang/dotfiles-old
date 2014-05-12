@@ -1,7 +1,7 @@
 /*
 
 !.fonts/
-!.scripts/**
+!.scripts/*
 !.vim/
 !.brew
 !.gitconfig
@@ -10,4 +10,7 @@
 !.zshrc
 !iterm*
 !memfree.py
+!weather-prompt.sh
+!weather.sh
+
 
