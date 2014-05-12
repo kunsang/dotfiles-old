@@ -1,5 +1,5 @@
 dotfiles
 ========
-My Custom zprezto prompt with [ansiweather script][http://github.com/fcambus/ansiweather].
+My Custom zprezto prompt with [ansiweather script](http://github.com/fcambus/ansiweather).
 
-![zprezto prompt][http://kunsang.de/i/zprezto.png]
+![zprezto prompt](http://kunsang.de/i/zprezto.png)
